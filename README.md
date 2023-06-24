@@ -1,5 +1,4 @@
 # IT-Security-Cyber-Resources
-IT-Security-Cyber-Resources
 
 ## IT Resources
 * https://testconnectivity.microsoft.com/tests/exchange
@@ -14,8 +13,22 @@ IT-Security-Cyber-Resources
 https://darknetdiaries.com/
 
 ### Communities
-* discord CMMC
-* discord Newb
+* CMMC Discord Server  https://discord.gg/8czef8mp
+* Security Newbs Discord Server  https://discord.gg/securitynewbs
 
 ## Physical Security Resources
 
+## CS Resources
+* CS50 home page https://cs50.harvard.edu/x/2023/
+* CS50 Podcast - does not appear to be classes  https://open.spotify.com/show/3MxtKWdpxTVvxnAYPDJuKV
+* CS50 Lectures 2022 on Youtube https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4
+* MIT Introduction To Computer Science And Programming In Python - older, but basic concepts have not changed - videos appear to be downloadable  https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/
+* RedHat Code Comments Podcast - might give some insidght - https://www.redhat.com/en/code-comments-podcast
+* 
+
+## Leadership Resources
+
+
+
+## General info
+* https://www.reddit.com/r/ChatGPT/
