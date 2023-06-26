@@ -42,6 +42,9 @@
 * CS50 Lectures 2022 on Youtube https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4
 * MIT Introduction To Computer Science And Programming In Python - older, but basic concepts have not changed - videos appear to be downloadable  https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/
 * RedHat Code Comments Podcast - might give some insidght - https://www.redhat.com/en/code-comments-podcast
+* Security Newbs/developer-resources  https://discord.com/channels/938539011130163231/938539306539159624
+* Security Newbs/dev-eng-discussions https://discord.com/channels/938539011130163231/938558585984663613
+* https://training.linuxfoundation.org/training/developing-secure-software-lfd121/
 * 
 
 ## Task Organization Resources
