@@ -2,12 +2,15 @@
 
 ## IT Resources
 * https://testconnectivity.microsoft.com/tests/exchange
+* 
 
 ## Cybersecurity Resources
 ### Links
 * https://anti-hacker-alliance.com/index.php
 * https://ipgeolocation.io/
 * https://start.me/p/OmOrJb/threat-hunting
+* https://securityawareness.usalearning.gov/cybersecurity/index.htm
+* 
 
 ### Podcasts
 * https://darknetdiaries.com/
@@ -19,6 +22,13 @@
 * Security Newbs Discord Server  https://discord.gg/securitynewbs
 
 ## Physical Security Resources
+* https://www.cdse.edu/
+* https://cdse.usalearning.gov/login/index.php
+* https://securityawareness.usalearning.gov/
+* https://securityawareness.usalearning.gov/itawareness/index.htm
+* https://www.dcsa.mil/
+* https://www.dcsa.mil/Industrial-Security/National-Industrial-Security-Program-Oversight/NISP-Tools-Resources/
+* 
 
 ## CS Resources
 * CS50 home page https://cs50.harvard.edu/x/2023/
@@ -45,4 +55,5 @@
 * https://krebsonsecurity.com/
 * https://www.darkreading.com/
 * https://www.schneier.com/
+* https://www.spiceworks.com/
 * 
