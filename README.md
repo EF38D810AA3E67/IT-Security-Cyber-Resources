@@ -39,3 +39,10 @@
 
 ## General info
 * https://www.reddit.com/r/ChatGPT/
+* https://slashdot.org/
+* https://www.bleepingcomputer.com/
+* https://www.thurrott.com/blog
+* https://krebsonsecurity.com/
+* https://www.darkreading.com/
+* https://www.schneier.com/
+* 
