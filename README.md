@@ -11,6 +11,8 @@
 
 ### Podcasts
 * https://darknetdiaries.com/
+* https://twit.tv/shows/security-now
+  * highlighted sections here
 
 ### Communities
 * CMMC Discord Server  https://discord.gg/8czef8mp
