@@ -12,7 +12,8 @@
 * https://ipgeolocation.io/
 * https://start.me/p/OmOrJb/threat-hunting
 * https://securityawareness.usalearning.gov/cybersecurity/index.htm
-* 
+* CMMC Resources https://www.cmmc-coa.com/
+* DNS filtering https://www.akamai.com/site/en/documents/brochure/akamai-govshield-program.pdf
 
 ### Podcasts
 * https://darknetdiaries.com/
