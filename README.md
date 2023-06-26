@@ -2,6 +2,8 @@
 
 ## IT Resources
 * https://testconnectivity.microsoft.com/tests/exchange
+* https://www.microsoft.com/en-us/wdsi/defenderupdates
+* https://learn.microsoft.com/en-us/lifecycle/
 * 
 
 ## Cybersecurity Resources
