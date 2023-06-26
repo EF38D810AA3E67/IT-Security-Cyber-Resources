@@ -14,6 +14,9 @@
 * https://securityawareness.usalearning.gov/cybersecurity/index.htm
 * CMMC Resources https://www.cmmc-coa.com/
 * DNS filtering https://www.akamai.com/site/en/documents/brochure/akamai-govshield-program.pdf
+* https://www.youtube.com/@Summit7
+  * CS2: Cloud Security and Compliance Series https://www.youtube.com/playlist?list=PLXnJydDzfe6gkCsgRT4hslfPGOxcTo57b
+*  
 
 ### Podcasts
 * https://darknetdiaries.com/
