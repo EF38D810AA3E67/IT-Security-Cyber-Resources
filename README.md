@@ -4,6 +4,7 @@
 * https://testconnectivity.microsoft.com/tests/exchange
 * https://www.microsoft.com/en-us/wdsi/defenderupdates
 * https://learn.microsoft.com/en-us/lifecycle/
+* https://learn.microsoft.com/en-us/windows/release-health/release-information
 * 
 
 ## Cybersecurity Resources
@@ -16,7 +17,8 @@
 * DNS filtering https://www.akamai.com/site/en/documents/brochure/akamai-govshield-program.pdf
 * https://www.youtube.com/@Summit7
   * CS2: Cloud Security and Compliance Series https://www.youtube.com/playlist?list=PLXnJydDzfe6gkCsgRT4hslfPGOxcTo57b
-*  
+* https://www.akamai.com/site/en/documents/brochure/akamai-govshield-program.pdf
+* 
 
 ### Podcasts
 * https://darknetdiaries.com/
@@ -65,4 +67,5 @@
 * https://www.darkreading.com/
 * https://www.schneier.com/
 * https://www.spiceworks.com/
+* https://github.com/aboutsecurity/blueteam_homelabs
 * 
