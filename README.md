@@ -5,6 +5,10 @@
 * https://www.microsoft.com/en-us/wdsi/defenderupdates
 * https://learn.microsoft.com/en-us/lifecycle/
 * https://learn.microsoft.com/en-us/windows/release-health/release-information
+* https://learn.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/exchange-activesync/remote-wipe-on-mobile-phone
+* https://learn.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates?view=exchserver-2019
+* https://microsoft.github.io/CSS-Exchange/Diagnostics/HealthChecker/   `PS C:\> .\HealthChecker.ps1 -VulnerabilityReport`
+* https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control
 * 
 
 ## Cybersecurity Resources
@@ -68,4 +72,7 @@
 * https://www.schneier.com/
 * https://www.spiceworks.com/
 * https://github.com/aboutsecurity/blueteam_homelabs
+* https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+* https://owasp.org/
+* https://nextdns.io/
 * 
