@@ -9,6 +9,7 @@
 * https://learn.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates?view=exchserver-2019
 * https://microsoft.github.io/CSS-Exchange/Diagnostics/HealthChecker/   `PS C:\> .\HealthChecker.ps1 -VulnerabilityReport`
 * https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control
+* https://www.cvedetails.com/version-list/26/194/1/Microsoft-Exchange-Server.html?sha=496abf3959c674b77970d7603415b40739dc359a&order=1&trc=206
 * 
 
 ## Cybersecurity Resources
