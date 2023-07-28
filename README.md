@@ -23,6 +23,10 @@
 * https://www.youtube.com/@Summit7
   * CS2: Cloud Security and Compliance Series https://www.youtube.com/playlist?list=PLXnJydDzfe6gkCsgRT4hslfPGOxcTo57b
 * https://www.akamai.com/site/en/documents/brochure/akamai-govshield-program.pdf
+* https://dodcio.defense.gov/CMMC/Documentation/
+* Cooey Center of Excellence  https://www.youtube.com/channel/UCKFtt_l09Grkz46xLqhtZqQ
+* https://public.cyber.mil/stigs/downloads/
+* https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/PDNS/
 * 
 
 ### Podcasts
