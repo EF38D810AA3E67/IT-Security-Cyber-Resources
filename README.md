@@ -27,6 +27,10 @@
 * Cooey Center of Excellence  https://www.youtube.com/channel/UCKFtt_l09Grkz46xLqhtZqQ
 * https://public.cyber.mil/stigs/downloads/
 * https://www.nsa.gov/About/Cybersecurity-Collaboration-Center/PDNS/
+* https://censys.com/  Censys Attack Surface Management arms organizations with the critical information
+* https://zmap.io/  The ZMap Project is a collection of open source measurement tools for performing large-scale studies of the hosts and services that compose the public Internet.
+* https://www.shodan.io/dashboard    Shodan currently crawls nearly 1,500 ports across the Internet. Here are a few of the most commonly-used search filters to get started.
+* https://nmap.org/
 * 
 
 ### Podcasts
