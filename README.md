@@ -31,6 +31,10 @@
 * https://zmap.io/  The ZMap Project is a collection of open source measurement tools for performing large-scale studies of the hosts and services that compose the public Internet.
 * https://www.shodan.io/dashboard    Shodan currently crawls nearly 1,500 ports across the Internet. Here are a few of the most commonly-used search filters to get started.
 * https://nmap.org/
+* https://www.acquisition.gov/dfars/252.204-7019-notice-nistsp-800-171-dod-assessment-requirements
+* https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting
+* https://www.cmmcaudit.org/how-to-submit-a-nist-sp-800-171-self-assessment-to-sprs/
+* https://www.cmmcaudit.org/cmmc-2-0-scoping-scenarios-analysis/
 * 
 
 ### Podcasts
