@@ -35,6 +35,9 @@
 * https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting
 * https://www.cmmcaudit.org/how-to-submit-a-nist-sp-800-171-self-assessment-to-sprs/
 * https://www.cmmcaudit.org/cmmc-2-0-scoping-scenarios-analysis/
+* https://dodcio.defense.gov/Portals/0/Documents/CMMC/Scope_Level2_V2.0_FINAL_20211202_508.pdf
+* https://youtube.com/playlist?list=PLTO8Xj1uzEF4Fzp_uPRgwBdRxeEF5KKMS
+* https://www.cmmcaudit.org/
 * 
 
 ### Podcasts
