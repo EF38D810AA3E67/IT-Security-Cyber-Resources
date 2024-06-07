@@ -38,12 +38,16 @@
 * https://dodcio.defense.gov/Portals/0/Documents/CMMC/Scope_Level2_V2.0_FINAL_20211202_508.pdf
 * https://youtube.com/playlist?list=PLTO8Xj1uzEF4Fzp_uPRgwBdRxeEF5KKMS
 * https://www.cmmcaudit.org/
+    * https://www.youtube.com/@kierilf
+    * https://www.youtube.com/watch?v=uUPB5vUl3ug System Security Plan
 * 
 
 ### Podcasts
 * https://darknetdiaries.com/
 * https://twit.tv/shows/security-now
   * highlighted sections here
+* http://askmrwizard.com/2019/SecurityNowIllustrated/SecurityNow.htm
+  *  https://www.youtube.com/watch?v=ePuSb_Ww9x4&list=PL1IYes9MY6lK9f6lrWQv-pSybSRV12yTY&index=1
 
 ### Communities
 * CMMC Discord Server  https://discord.gg/8czef8mp
